@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="212" height="20" tilewidth="16" tileheight="16" backgroundcolor="#0055ff" nextobjectid="1">
+ <tileset firstgid="1" name="tileSet-hd" tilewidth="16" tileheight="16">
+  <image source="tileSet.png" trans="fe80fe" width="256" height="256"/>
+ </tileset>
+ <layer name="background" width="212" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt12VvFFEUxvHFnRZ3aAsU1+LW0hZpgeIuCe4kuJPgvgnuL5AvgHzA/ucFZJnMjuydmXt37nmS34tudmbOmdsrm8slm3yRv/MF3J9LJBLvuOdMsfkj80kiCU7Y+SPzSSIJTpTzXt7j+1nKEzzFMzy36NmScJExipaP+ITP+GLRsyXhImMkKcxXfMN3/NBcS6nJQg8mRPZa9fzEL/zGH821lJos9GBCZK+V2BKb92Bbejf1fNABHdEJndEFXdEN3dFDX2n/EvXdxbUHmzpmfrHl/GHq+aAf+mMABmIQBmMIhmJYhHsltTbqenemjpmk9CS9f1ejBmMxDuNRiwmYiEkR7mXL2ugXW85b5Zqk/0dnYTbqMAdzMQ/zsQALE3hmliNrit1ZjkY0oRkrsBKrsBotRa7rjT7om0KNWU65/EaTfTdcNmITNmMLtmIbtmMHdnpcMwIjMQqjMSaVSuNJT/TK/b8eVGisp1x+o8m+Gy77cQAHcQiHcQRHcQzHXd+fjCmYimmYjhmYmVK9qhme814PqkJcuwu7sQd7sS+ZEj1TbB2ojHAPnfU7Ue3Br/60egvq4SzO4Twu4CIu4TKu4KrrfouwGEuwFMtQj4aQ9RT2rCMq68EJnMQpnMaZhGr0iso68Dc663ei2oNf/Wn1FtTDbdzBXdzDfTzAQzzCY9f9WrEGa7EObViPDSFq0T2eTlTWg2u4jhu4iVvJlOiZOM4FOut3otqDX/1p9RbUwwu8xCu8xhu8xTu8xwfX/VTmk+7xdFKu9aueC5zofv+qPZiwP8UxDhL9UVkHTIlqDybsT3GPQzsje8hr
+  </data>
+ </layer>
+ <layer name="walls" width="212" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmlsOwiAQAHtTvYHeAE5Qr2w/SiTIsrzaKswkm4J0EclOShOXBQAAAAAA4MO6R+ozv79G+lIOwGzEvPCvYVsaS+UDzILkTa1Prh177gFA+iwnPY9wCQAAAABmxV69gJN4KSHdaxu+szRXWo8bs3vExkfD7AEAbZgFnwB6YBZ8OgN79QLgcEKXftknG/Tdedy/Xs1ti3vH+Xr8NqvMnbpfaofz5CK9WzmM0NYIa7emjv33zZr9jrn0yz4dheZAiSOPLZ6N65mVmBM59Rir3bNrWXJpJJ9yPdAcKHGE/7HUkXIiVZNS7Wq5recIPz/l0kg+5XqgOVDiCD6Vk+NErC5Ttavltp4jXL7m0pE+rcRX9Ngb9rjvfhL/G44ec7TOM0LMtA9v48tKjg==
+  </data>
+ </layer>
+ <layer name="hazards" width="212" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2bEJACAMBMDsX2VkRzCgUcG7Ko0fCFh9RI9syoUf+U8AAAAAAACwJkPvBgAAAAAAcNJqN1N5f6IDmuV37M/CvCv/RTe6vddvAgBVAwwjCZE=
+  </data>
+ </layer>
+</map>
